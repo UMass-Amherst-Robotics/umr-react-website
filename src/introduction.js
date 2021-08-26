@@ -94,7 +94,7 @@ export default function Introduction() {
         </Button>
       </Grid>
       <Grid item>
-        <img src="/team-working.jpeg" alt="TheFellas" className={classes.img}/>
+        <img src="./team-working.jpeg" alt="TheFellas" className={classes.img}/>
       </Grid>
     </Grid>
     </div>

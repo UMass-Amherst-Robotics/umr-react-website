@@ -15,17 +15,17 @@ const tutorialSteps = [
   {
     label: 'Applications',
     //imgPath: 'applications.png'
-    imgPath: '/UMRBannerLogo.png'
+    imgPath: './UMRBannerLogo.png'
     //href: /apply
   },
   {
     label: 'The Fellas',
-    imgPath: '/TheFellas.jpg',
+    imgPath: './TheFellas.jpg',
     //href:
   },
   {
     label: 'Lunabotics',
-    imgPath: '/NewLunaboticsLogo.png',
+    imgPath: './NewLunaboticsLogo.png',
     //href:
   },
 ];

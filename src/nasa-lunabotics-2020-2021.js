@@ -102,12 +102,12 @@ export default function Lunabotics() {
             -NASA
             </Box>
             <Box component="div" display="inline" className={classes.logo}>
-              <img width="90%" src={'/NewLunaboticsLogo.png'} />
+              <img width="90%" src={'./NewLunaboticsLogo.png'} />
             </Box>
             
             <Box component="div" display="inline" className={classes.robot}>
               <Box>
-                <img width="100%" src={'/NASARobot.jpg'} />
+                <img width="100%" src={'./NASARobot.jpg'} />
                 <Box className={classes.caption}>
                   -A robot in the RMC: Lunabotics competition.
                 </Box>
