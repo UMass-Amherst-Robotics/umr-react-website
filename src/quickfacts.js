@@ -79,8 +79,8 @@ const QuickFacts = () => {
         <Grid item xs={5}>
           <Fade timeout={2500}>
             <QuickFactTile
-              title="8"
-              text="Months Old"
+              title="1"
+              text="Year Old"
               img="/calendar-red.png"
             />
           </Fade>
