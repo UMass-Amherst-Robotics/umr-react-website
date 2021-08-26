@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/umr-react-website/static/js/main.d58998ab.chunk.js",
+    "main.js.map": "/umr-react-website/static/js/main.d58998ab.chunk.js.map",
+    "runtime-main.js": "/umr-react-website/static/js/runtime-main.e1f09e03.js",
+    "runtime-main.js.map": "/umr-react-website/static/js/runtime-main.e1f09e03.js.map",
+    "static/js/2.f6380492.chunk.js": "/umr-react-website/static/js/2.f6380492.chunk.js",
+    "static/js/2.f6380492.chunk.js.map": "/umr-react-website/static/js/2.f6380492.chunk.js.map",
+    "index.html": "/umr-react-website/index.html",
+    "static/js/2.f6380492.chunk.js.LICENSE.txt": "/umr-react-website/static/js/2.f6380492.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1f09e03.js",
+    "static/js/2.f6380492.chunk.js",
+    "static/js/main.d58998ab.chunk.js"
+  ]
+}
