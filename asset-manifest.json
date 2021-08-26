@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/umr-react-website/static/js/main.ccc42381.chunk.js",
-    "main.js.map": "/umr-react-website/static/js/main.ccc42381.chunk.js.map",
+    "main.js": "/umr-react-website/static/js/main.ef618947.chunk.js",
+    "main.js.map": "/umr-react-website/static/js/main.ef618947.chunk.js.map",
     "runtime-main.js": "/umr-react-website/static/js/runtime-main.e1f09e03.js",
     "runtime-main.js.map": "/umr-react-website/static/js/runtime-main.e1f09e03.js.map",
     "static/js/2.f6380492.chunk.js": "/umr-react-website/static/js/2.f6380492.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.e1f09e03.js",
     "static/js/2.f6380492.chunk.js",
-    "static/js/main.ccc42381.chunk.js"
+    "static/js/main.ef618947.chunk.js"
   ]
 }
