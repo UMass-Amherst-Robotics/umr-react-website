@@ -10,7 +10,7 @@ export default function GoldSponsors() {
     <div className='gold-container'>
       <Grid container>
         <Grid item xs={xs} sm={sm}>
-          <img src='/Gold.png' alt='gold sponsor'/>
+          <img src='./Gold.png' alt='gold sponsor'/>
         </Grid>
         <Grid item xs={xs} sm={sm}>
           <Typography variant='h5'>GOLD DONATORS</Typography>

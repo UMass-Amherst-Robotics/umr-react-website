@@ -10,7 +10,7 @@ export default function SilverDonators() {
     <div className='silver-container'>
       <Grid container direction='row'>
         <Grid item xs={xs} sm={sm}>
-          <img src='/Silver.png' alt='silver sponsor'/>
+          <img src='./Silver.png' alt='silver sponsor'/>
         </Grid>
         <Grid item xs={xs} sm={sm}>
           <Typography variant='h5'>SILVER DONATORS</Typography>
