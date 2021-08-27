@@ -44,7 +44,7 @@ const QuickFacts = () => {
           alignItems="center"
       >
         <Grid item xs={5}>
-            <a className={classes.link} href='/meet-the-team'>
+            <a className={classes.link} href='/umr-react-website/#/meet-the-team'>
               <Fade timeout={2500}>
                 <QuickFactTile
                   title="12"

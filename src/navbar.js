@@ -92,7 +92,7 @@ const Navbar = () => {
               </Hidden>
               <Hidden lgUp>
                 <Box mx="auto" position="relative" left={5}>
-                  <a href='/'><img src="./umr-logo-white.png" alt="logo" className={classes.logo} /></a>
+                  <a href='/umr-react-website/#/'><img src="./umr-logo-white.png" alt="logo" className={classes.logo} /></a>
                 </Box>
               </Hidden>
               <Hidden mdDown>
