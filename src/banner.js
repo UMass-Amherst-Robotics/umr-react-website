@@ -20,7 +20,17 @@ const tutorialSteps = [
   },
   {
     label: 'The Fellas',
-    imgPath: './TheFellas.jpg',
+    imgPath: './team-working.jpeg',
+    //href:
+  },
+  {
+    label: 'The Fellas',
+    imgPath: './team-working-1.jpeg',
+    //href:
+  },
+  {
+    label: 'The Fellas',
+    imgPath: './team-working-2.jpeg',
     //href:
   },
   {
