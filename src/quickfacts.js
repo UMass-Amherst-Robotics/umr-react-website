@@ -47,8 +47,8 @@ const QuickFacts = () => {
             <a className={classes.link} href='/umr-react-website/#/meet-the-team'>
               <Fade timeout={2500}>
                 <QuickFactTile
-                  title="12"
-                  text="Team Members"
+                  title="77"
+                  text="Club Members"
                   img="/people-red.png"
                 />
              </Fade>
@@ -59,7 +59,7 @@ const QuickFacts = () => {
             <a className={classes.link} href='https://www.gofundme.com/f/umass-robotics?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1' target="_blank">
               <Fade timeout={2500}>
                 <QuickFactTile
-                  title="1775"
+                  title="2000"
                   text="Dollars Raised"
                   img="/trophy-red.png"
                 />
@@ -70,7 +70,7 @@ const QuickFacts = () => {
         <Grid item xs={5}>
           <Fade timeout={2500}>
             <QuickFactTile
-              title="2"
+              title="3"
               text="Prototype Robots"
               img="/robot-red.png"
             />
@@ -79,8 +79,8 @@ const QuickFacts = () => {
         <Grid item xs={5}>
           <Fade timeout={2500}>
             <QuickFactTile
-              title="1"
-              text="Year Old"
+              title="2"
+              text="Years Old"
               img="/calendar-red.png"
             />
           </Fade>

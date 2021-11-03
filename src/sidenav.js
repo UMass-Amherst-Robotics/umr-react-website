@@ -82,7 +82,7 @@ export default function TemporaryDrawer() {
         <ListItemLink button key={'Contact'} href='/umr-react-website/#/contact'><ListItemIcon><MailIcon /></ListItemIcon><ListItemText primary={'Contact'} /></ListItemLink>
         <ListItemLink button key={'Sponsors'} href='/umr-react-website/#/sponsors'><ListItemIcon><PeopleIcon /></ListItemIcon><ListItemText primary={'Sponsors'} /></ListItemLink>
         <ListItemLink button key={'Donate'} href='https://www.gofundme.com/f/umass-robotics?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1' target='_blank'><ListItemIcon><AttachMoneyIcon /></ListItemIcon><ListItemText primary={'Donate'} /></ListItemLink>
-        <ListItemLink button key={'Apply'} href='https://forms.gle/fAYZgDoUw859cnnF8' target="_blank"><ListItemIcon><InboxIcon /></ListItemIcon><ListItemText primary={'Apply'} /></ListItemLink>
+        {/* <ListItemLink button key={'Apply'} href='https://forms.gle/fAYZgDoUw859cnnF8' target="_blank"><ListItemIcon><InboxIcon /></ListItemIcon><ListItemText primary={'Apply'} /></ListItemLink> */}
       </List>
     </div>
   );
