@@ -99,10 +99,10 @@ const Navbar = () => {
               <a href='/umr-react-website/#/'><img src="./umr-logo-white.png" alt="logo" className={classes.logo} /></a>
               <Button className={classes.menu_button} color="inherit" href='/umr-react-website/#/'>HOME</Button>
               <AboutUsMenuButton/>
-              <Button className={classes.menu_button} color="inherit" href='/umr-react-website/#/contact'>CONTACT</Button>
+              <Button className={classes.menu_button} color="inherit" href='https://forms.gle/EZGX1yKmQJm5xam69'>CONTACT</Button>
               <Button className={classes.menu_button} color="inherit" href='/umr-react-website/#/sponsors'>SPONSORS</Button>
               <Button className={classes.menu_button} color="inhereit" href='https://www.gofundme.com/f/umass-robotics?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1' target='_blank'>DONATE</Button>
-              <Button className={classes.apply_button} color="inhereit" href='https://forms.gle/fAYZgDoUw859cnnF8' target="_blank">APPLY</Button>
+              <Button className={classes.apply_button} color="inhereit" href='https://forms.gle/EZGX1yKmQJm5xam69' target="_blank">APPLY</Button>
               </Hidden>
             </Grid>
       </Toolbar>
