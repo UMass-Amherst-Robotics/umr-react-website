@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/umr-react-website/static/js/main.5c3fa537.chunk.js",
-    "main.js.map": "/umr-react-website/static/js/main.5c3fa537.chunk.js.map",
+    "main.js": "/umr-react-website/static/js/main.c946dcc0.chunk.js",
+    "main.js.map": "/umr-react-website/static/js/main.c946dcc0.chunk.js.map",
     "runtime-main.js": "/umr-react-website/static/js/runtime-main.e1f09e03.js",
     "runtime-main.js.map": "/umr-react-website/static/js/runtime-main.e1f09e03.js.map",
-    "static/js/2.b1e9274b.chunk.js": "/umr-react-website/static/js/2.b1e9274b.chunk.js",
-    "static/js/2.b1e9274b.chunk.js.map": "/umr-react-website/static/js/2.b1e9274b.chunk.js.map",
+    "static/js/2.0c15f85b.chunk.js": "/umr-react-website/static/js/2.0c15f85b.chunk.js",
+    "static/js/2.0c15f85b.chunk.js.map": "/umr-react-website/static/js/2.0c15f85b.chunk.js.map",
     "index.html": "/umr-react-website/index.html",
-    "static/js/2.b1e9274b.chunk.js.LICENSE.txt": "/umr-react-website/static/js/2.b1e9274b.chunk.js.LICENSE.txt"
+    "static/js/2.0c15f85b.chunk.js.LICENSE.txt": "/umr-react-website/static/js/2.0c15f85b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e1f09e03.js",
-    "static/js/2.b1e9274b.chunk.js",
-    "static/js/main.5c3fa537.chunk.js"
+    "static/js/2.0c15f85b.chunk.js",
+    "static/js/main.c946dcc0.chunk.js"
   ]
 }
